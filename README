@@ -1,4 +1,4 @@
-#Readme - Connecting Node.js with MySQL via Terminal
+##Readme - Connecting Node.js with MySQL via Terminal
 In this project, you have created a Node.js script that connects to a MySQL database and interacts with it through the terminal. The script allows you to perform various operations such as displaying all books in the database, displaying books by a given author, displaying all authors, and adding a new author.
 
 Requirements
